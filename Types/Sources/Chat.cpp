@@ -2,7 +2,7 @@
 // Created by hamlet on 9/16/17.
 //
 
-#include "Chat.h"
+#include "../../Headers/Chat.h"
 
 long long int Chat::getId() const {
     return id;

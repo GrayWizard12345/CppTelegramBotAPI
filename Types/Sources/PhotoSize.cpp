@@ -2,7 +2,7 @@
 // Created by hamlet on 9/16/17.
 //
 
-#include "PhotoSize.h"
+#include "../../Headers/PhotoSize.h"
 
 const string &PhotoSize::getFile_id() const {
     return file_id;

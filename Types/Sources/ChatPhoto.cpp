@@ -2,4 +2,4 @@
 // Created by hamlet on 9/16/17.
 //
 
-#include "Game.h"
+#include "../../Headers/ChatPhoto.h"

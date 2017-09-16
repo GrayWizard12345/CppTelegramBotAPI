@@ -2,7 +2,7 @@
 // Created by hamlet on 9/16/17.
 //
 
-#include "MessageEntity.h"
+#include "../../Headers/MessageEntity.h"
 
 const string &MessageEntity::getType() const {
     return type;

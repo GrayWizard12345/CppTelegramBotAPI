@@ -2,4 +2,4 @@
 // Created by hamlet on 9/16/17.
 //
 
-#include "SuccessfulPayment.h"
+#include "../../Headers/Sticker.h"
